@@ -15,10 +15,12 @@ The primary goal of this study is to identify the best model for predicting whet
 By examining these attributes, we seek actionable insights to improve risk assessment and intervention strategies.
 Methodology
 
-## Data Collection: We will gather datasets containing demographic and clinical information relevant to heart disease.
-    Data Preprocessing: This includes data cleaning, handling missing values, and normalizing data formats.
-    Exploratory Data Analysis (EDA): We will explore relationships and patterns among variables to inform model selection.
-    Model Development: Various machine learning algorithms will be implemented and compared, focusing on:
+## Data 
+Collection: We will gather datasets containing demographic and clinical information relevant to heart disease.
+Preprocessing: This includes data cleaning, handling missing values, and normalizing data formats.
+
+## Exploratory Data Analysis (EDA): We will explore relationships and patterns among variables to inform model selection.
+   Model Development: Various machine learning algorithms will be implemented and compared, focusing on:
         Accuracy
         Sensitivity
         Specificity
