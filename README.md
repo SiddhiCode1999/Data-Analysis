@@ -1,5 +1,5 @@
 # Data-Analysis
-Heart Attack Prediction Model
+*Heart Attack Prediction Model*
 
 Heart disease remains a major global health concern, being one of the leading causes of morbidity and mortality. This project aims to develop a predictive model to assess the risk of heart attacks based on various demographic and clinical attributes.
 Objective
